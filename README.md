@@ -1,5 +1,5 @@
 # <p align="center"> ratRequ3ster </p>
-<p align="center">A software designed to interact with LCU Api (hidden League Of Legends api)</p>
+<p align="center">A software designed to interact with LCU Api (Hidden League Of Legends api)</p>
 
 
 ## Installation
@@ -8,7 +8,7 @@ Go to the <a href="https://github.com/akira-trinity/ratRequ3ster/releases">relea
 
 Extract it and start ```ratRequ3ster.exe```
 
-You also download the source code and use it with Python :
+You also download the source code and use it with Python (download the used modules before !) :
 ```bash
 python ratRequ3ster.py
 ```
@@ -17,7 +17,7 @@ python ratRequ3ster.py
 
 I guess that if u use my software, u know what ur doing and what ur looking for.
 
-So, open ratRequ3ster and League, then make sure to select League Installation path here :
+So, open ratRequ3ster and League, then make sure to select League installation path here :
 
 ![image](https://user-images.githubusercontent.com/62818208/224183778-43eccdd4-65b3-4869-9457-e078fc5ac3aa.png)
 
