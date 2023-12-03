@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/0adri3n/ratRequ3ster/blob/b73610004b9ef552bc4ce9f93220605b58b50e23/src/img/yellowDotLogo.png" width=200></p>
+
 # <p align="center"> ratRequ3ster </p>
 <p align="center">A software designed to interact with LCU Api (League Of Legends api)</p>
 
