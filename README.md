@@ -1,5 +1,5 @@
 # <p align="center"> ratRequ3ster </p>
-<p align="center">A software designed to interact with LCU Api (Hidden League Of Legends api)</p>
+<p align="center">A software designed to interact with LCU Api (League Of Legends api)</p>
 
 
 ## Installation
